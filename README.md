@@ -44,4 +44,3 @@ Notes
   prevent the database from working correctly.
 * Error messages are only enabled when ADb.$debug is set to 'true'. Error 
   messages will be passed to Firebug if it is available.
-* 
